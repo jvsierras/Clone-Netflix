@@ -1,5 +1,5 @@
 // Protección de la API Key usando un archivo .env o variable global
-const apiKey = 'TU_API_KEY_AQUI'; // Reemplaza con tu API Key (protege esta clave)
+const apiKey = '7787dd5dc689453346d1bca794089006'; // Reemplaza con tu API Key (protege esta clave)
 
 document.getElementById('searchButton').addEventListener('click', () => {
   const query = document.getElementById('movieSearch').value;
